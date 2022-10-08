@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "mc34063-power-inductor")(type "KiCad")(uri "${KICAD_LIBS}/parts/inductors/power-inductors/mc34063-power-inductor")(options "")(descr "mc34063-power-inductor"))
+  (lib (name "TestPoint")(type "KiCad")(uri "C:/Users/Petros/projects/kicad-libs/parts/test-points/TestPoint")(options "")(descr "TestPoint"))
+)
