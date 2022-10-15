@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "mc34063-power-inductor")(type "KiCad")(uri "${KICAD_LIBS}/parts/inductors/power-inductors/mc34063-power-inductor/mc34063-power-inductor.kicad_sym")(options "")(descr ""))
-)

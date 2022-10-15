@@ -1,4 +1,11 @@
-20370283076101563
+20371949503925478
+1pin
+1pin
+
+
+0
+1
+1
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85952,10 +85959,10 @@ varistor
 0
 2
 2
-mc34063-power-inductor
-mc34063-power-inductor
-Choke, SMD, 12x12mm 8mm height
-Choke SMD
+mc34063-power-inductor-leaded
+mc34063-power-inductor-leaded
+
+
 0
-6
+4
 2

@@ -1,5 +1,6 @@
 (fp_lib_table
-  (lib (name "mc34063-power-inductor")(type "KiCad")(uri "${KICAD_LIBS}/parts/inductors/power-inductors/mc34063-power-inductor")(options "")(descr "mc34063-power-inductor"))
   (lib (name "TestPoint")(type "KiCad")(uri "${KICAD_LIBS}/parts/test-points/TestPoint")(options "")(descr "TestPoint"))
   (lib (name "Custom_Mounting_Holes")(type "KiCad")(uri "${KICAD_LIBS}/parts/mounting/Custom_Mounting_Holes.pretty")(options "")(descr "Custom_Mounting_Holes"))
+  (lib (name "mc34063-power-inductor-leaded")(type "KiCad")(uri "${KICAD_LIBS}/parts/inductors/power-inductors/mc34063-power-inductor-leaded")(options "")(descr "mc34063-power-inductor-leaded"))
+  (lib (name "1pin")(type "KiCad")(uri "${KIPRJMOD}/1pin")(options "")(descr ""))
 )

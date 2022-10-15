@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC Part #
+100u/50V Polarized capacitor,Ci1,CP_Elec_6.3x7.7,C3001220
+470u/10V Polarized capacitor,"Co1,Co2",CP_Elec_6.3x7.7,C3001217
+47u/10V Unpolarized capacitor,"Co3,Co4",C_1206_3216Metric,C96123
+150p Unpolarized capacitor,Ct1,C_1206_3216Metric,C1716
+"1N5819 40V 1A Schottky Barrier Rectifier Diode, DO-41",D1,D_SOD-123,C82544
+3K6 Resistor,R1,R_0805_2012Metric,C218558
+1K2 Resistor,R2,R_0805_2012Metric,C218393
+0.33 Resistor,RSC1,R_0805_2012Metric,C724024
+"MC34063AD 1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, SO-8",U1,SOIC-8_3.9x4.9mm_P1.27mm,C32078

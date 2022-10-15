@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "mc34063-power-inductor-leaded")(type "KiCad")(uri "${KICAD_LIBS}/parts/inductors/power-inductors/mc34063-power-inductor-leaded/mc34063-power-inductor-leaded.kicad_sym")(options "")(descr "mc34063-power-inductor-leaded"))
+  (lib (name "1pin")(type "KiCad")(uri "${KIPRJMOD}/1pin/1pin.kicad_sym")(options "")(descr "1pin"))
+)

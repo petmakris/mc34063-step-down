@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Petros\projects\mc34063-step-down\mc34063-step-down-dev-0.3\mc34063-step-down-dev-0.3.kicad_sch</source>
+    <date>10/15/2022 11:29:01 PM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>mc34063-step-down-dev-0.3.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="Ci1">
+      <value>100u/50V</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x7.7</footprint>
+      <fields>
+        <field name="LCSC">C3001220</field>
+        <field name="MPN">CS1V101M-CRE77</field>
+        <field name="Mfr">ROQANG</field>
+        <field name="URL">https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-CS1V101M-CRE77_C3001220.html</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="LCSC" value="C3001220"/>
+      <property name="MPN" value="CS1V101M-CRE77"/>
+      <property name="Mfr" value="ROQANG"/>
+      <property name="URL" value="https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-CS1V101M-CRE77_C3001220.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e382cf38-03e9-47dd-9f2f-8b764e44edcb</tstamps>
+    </comp>
+    <comp ref="Co1">
+      <value>470u/10V</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x7.7</footprint>
+      <fields>
+        <field name="LCSC">C3001217</field>
+        <field name="MPN">CS1A471M-CRE77</field>
+        <field name="Mfr">ROQANG</field>
+        <field name="URL">https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-CS1A471M-CRE77_C3001217.html</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="LCSC" value="C3001217"/>
+      <property name="MPN" value="CS1A471M-CRE77"/>
+      <property name="Mfr" value="ROQANG"/>
+      <property name="URL" value="https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-CS1A471M-CRE77_C3001217.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0e80e3f-1706-49ca-bb34-880a76a09b61</tstamps>
+    </comp>
+    <comp ref="Co2">
+      <value>470u/10V</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x7.7</footprint>
+      <fields>
+        <field name="LCSC">C3001217</field>
+        <field name="MPN">CS1A471M-CRE77</field>
+        <field name="Mfr">ROQANG</field>
+        <field name="URL">https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-CS1A471M-CRE77_C3001217.html</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="LCSC" value="C3001217"/>
+      <property name="MPN" value="CS1A471M-CRE77"/>
+      <property name="Mfr" value="ROQANG"/>
+      <property name="URL" value="https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-CS1A471M-CRE77_C3001217.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2492a89e-17d6-48ca-a87a-dc0876eb840d</tstamps>
+    </comp>
+    <comp ref="Co3">
+      <value>47u/10V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C96123</field>
+        <field name="MPN">CL31A476MPHNNNE</field>
+        <field name="Mfr">Samsung Electro-Mechanics</field>
+        <field name="URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31A476MPHNNNE_C96123.html</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C96123"/>
+      <property name="MPN" value="CL31A476MPHNNNE"/>
+      <property name="Mfr" value="Samsung Electro-Mechanics"/>
+      <property name="URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31A476MPHNNNE_C96123.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4648291-1254-430d-83b3-4150f57df845</tstamps>
+    </comp>
+    <comp ref="Co4">
+      <value>47u/10V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C96123</field>
+        <field name="MPN">CL31A476MPHNNNE</field>
+        <field name="Mfr">Samsung Electro-Mechanics</field>
+        <field name="URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31A476MPHNNNE_C96123.html</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C96123"/>
+      <property name="MPN" value="CL31A476MPHNNNE"/>
+      <property name="Mfr" value="Samsung Electro-Mechanics"/>
+      <property name="URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31A476MPHNNNE_C96123.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7ca2dbb-fcbb-40f6-9783-e70e8fb3f5b1</tstamps>
+    </comp>
+    <comp ref="Ct1">
+      <value>150p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C1716</field>
+        <field name="MPN">0805B151K500NT</field>
+        <field name="Mfr">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0805B151K500NT_C1716.html</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1716"/>
+      <property name="MPN" value="0805B151K500NT"/>
+      <property name="Mfr" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0805B151K500NT_C1716.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7693b50b-063f-45cb-b7a5-d7b65e24d305</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N5819</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>http://www.vishay.com/docs/88525/1n5817.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C82544</field>
+        <field name="MPN">1N5819HW-7-F</field>
+        <field name="Mfr">Diodes Incorporated</field>
+        <field name="URL">https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Diodes-Incorporated-1N5819HW-7-F_C82544.html</field>
+      </fields>
+      <libsource lib="Diode" part="1N5819" description="40V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="LCSC" value="C82544"/>
+      <property name="MPN" value="1N5819HW-7-F"/>
+      <property name="Mfr" value="Diodes Incorporated"/>
+      <property name="URL" value="https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Diodes-Incorporated-1N5819HW-7-F_C82544.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b933958c-8c85-4d0f-9c23-854e61e9d49b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>3K6</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C218558</field>
+        <field name="MPN">ARG05FTC3601</field>
+        <field name="Mfr">Viking Tech</field>
+        <field name="URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-ARG05FTC3601_C218558.html</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C218558"/>
+      <property name="MPN" value="ARG05FTC3601"/>
+      <property name="Mfr" value="Viking Tech"/>
+      <property name="URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-ARG05FTC3601_C218558.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe971e4c-bc64-44d9-93e7-a728313e0339</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1K2</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C218393</field>
+        <field name="MPN">ARG05FTC1201</field>
+        <field name="Mfr">Viking Tech</field>
+        <field name="URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-ARG05FTC1201_C218393.html</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C218393"/>
+      <property name="MPN" value="ARG05FTC1201"/>
+      <property name="Mfr" value="Viking Tech"/>
+      <property name="URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-ARG05FTC1201_C218393.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac3fed04-d45e-47ac-8a39-e29f917c190d</tstamps>
+    </comp>
+    <comp ref="RSC1">
+      <value>0.33</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C724024</field>
+        <field name="MPN">RL0805FR-070R33L</field>
+        <field name="Mfr">YAGEO</field>
+        <field name="URL">https://www.lcsc.com/product-detail/Current-Sense-Resistors-Shunt-Resistors_YAGEO-RL0805FR-070R33L_C724024.html</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C724024"/>
+      <property name="MPN" value="RL0805FR-070R33L"/>
+      <property name="Mfr" value="YAGEO"/>
+      <property name="URL" value="https://www.lcsc.com/product-detail/Current-Sense-Resistors-Shunt-Resistors_YAGEO-RL0805FR-070R33L_C724024.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38c77b02-1230-45df-b4e4-e90d8dab2dde</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MC34063AD</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C32078</field>
+        <field name="MPN">MC34063ADR2G</field>
+        <field name="Mfr">ONSEMI</field>
+        <field name="URL">https://www.lcsc.com/product-detail/DC-DC-Converters_onsemi-MC34063ADR2G_C32078.html</field>
+      </fields>
+      <libsource lib="Regulator_Switching" part="MC34063AD" description="1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, SO-8"/>
+      <property name="LCSC" value="C32078"/>
+      <property name="MPN" value="MC34063ADR2G"/>
+      <property name="Mfr" value="ONSEMI"/>
+      <property name="URL" value="https://www.lcsc.com/product-detail/DC-DC-Converters_onsemi-MC34063ADR2G_C32078.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d950adf6-eb9a-42bc-a4e0-62a5e79a4dd5</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>mc34063-power-inductor-leaded</value>
+      <footprint>mc34063-power-inductor-leaded:mc34063-power-inductor-leaded</footprint>
+      <libsource lib="mc34063-power-inductor-leaded" part="mc34063-power-inductor-leaded" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f35d37c-8334-4077-b49d-8f9e41cef3f7</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>1pin</value>
+      <footprint>1pin:1pin</footprint>
+      <libsource lib="1pin" part="1pin" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72e95d32-e3fe-4a9e-a25f-d00ab9a93011</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>1pin</value>
+      <footprint>1pin:1pin</footprint>
+      <libsource lib="1pin" part="1pin" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39bc7e46-5457-4c4d-bd99-e5a31071e468</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>1pin</value>
+      <footprint>1pin:1pin</footprint>
+      <libsource lib="1pin" part="1pin" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>521dbbc9-a41e-449a-9642-8816eada5f72</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>1pin</value>
+      <footprint>1pin:1pin</footprint>
+      <libsource lib="1pin" part="1pin" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mc34063-step-down-dev-0.3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43feefe8-660e-4bb0-9e0d-407c4d0a47eb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="1pin" part="1pin">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">1pin</field>
+        <field name="Footprint">1pin:1pin</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5819">
+      <description>40V 1A Schottky Barrier Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88525/1n5817.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5819</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88525/1n5817.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="MC34063AD">
+      <description>1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, SO-8</description>
+      <docs>http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">MC34063AD</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF</field>
+        <field name="LCSC">C32078</field>
+        <field name="MPN">MC34063ADR2G</field>
+        <field name="Mfr">ONSEMI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SwC" type="open_collector"/>
+        <pin num="2" name="SwE" type="open_emitter"/>
+        <pin num="3" name="TC" type="passive"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="Vfb" type="input"/>
+        <pin num="6" name="Vin" type="power_in"/>
+        <pin num="7" name="Ipk" type="input"/>
+        <pin num="8" name="DC" type="open_collector"/>
+      </pins>
+    </libpart>
+    <libpart lib="mc34063-power-inductor-leaded" part="mc34063-power-inductor-leaded">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">mc34063-power-inductor-leaded</field>
+        <field name="Footprint">mc34063-power-inductor-leaded:mc34063-power-inductor-leaded</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="1pin">
+      <uri>C:\Users\Petros\projects\mc34063-step-down\mc34063-step-down-dev-0.3/1pin/1pin.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
+    </library>
+    <library logical="mc34063-power-inductor-leaded">
+      <uri>C:\Users\Petros\Projects\kicad-libs/parts/inductors/power-inductors/mc34063-power-inductor-leaded/mc34063-power-inductor-leaded.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Sense">
+      <node ref="RSC1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="SwC" pintype="open_collector"/>
+      <node ref="U1" pin="7" pinfunction="Ipk" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="DC" pintype="open_collector"/>
+    </net>
+    <net code="2" name="/Vfeedback">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="Vfb" pintype="input"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="Ci1" pin="2" pintype="passive"/>
+      <node ref="Co1" pin="2" pintype="passive"/>
+      <node ref="Co2" pin="2" pintype="passive"/>
+      <node ref="Co3" pin="2" pintype="passive"/>
+      <node ref="Co4" pin="2" pintype="passive"/>
+      <node ref="Ct1" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(Ci1-Pad1)">
+      <node ref="Ci1" pin="1" pintype="passive"/>
+      <node ref="RSC1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U3" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(Co1-Pad1)">
+      <node ref="Co1" pin="1" pintype="passive"/>
+      <node ref="Co2" pin="1" pintype="passive"/>
+      <node ref="Co3" pin="1" pintype="passive"/>
+      <node ref="Co4" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(Ct1-Pad1)">
+      <node ref="Ct1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="TC" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="SwE" pintype="open_emitter"/>
+      <node ref="U2" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
